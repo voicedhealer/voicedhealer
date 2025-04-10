@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Bonjour, je suis Vivien Bernardot !
+- 🌱 Je suis passionné par l'informatique de manière générale.
+- 🔭 Actuellement, je travaille sur ma formation Developpeur web et mobile. 
+- 📫 Contactez-moi : www.linkedin.com/in/vivien-bernardot-64756434a.
 
-<!--
-**voicedhealer/voicedhealer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+
+![Trophées](https://github-profile-trophy.vercel.app/?username=VotreNomUtilisateur&theme=onedark)
+
