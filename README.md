@@ -5,8 +5,7 @@
 
 ![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=voicedhealer&layout=compact&theme=radical)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=voicedhealer&layout=compact&theme=tokyonight)
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
 
