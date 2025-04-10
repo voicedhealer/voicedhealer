@@ -1,4 +1,5 @@
 ## 👋 Bonjour, je suis Vivien Bernardot !
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500">
 - 🌱 Je suis passionné par l'informatique de manière générale.
 - 🔭 Actuellement, je travaille sur ma formation Developpeur web et mobile. 
 - 📫 Contactez-moi : www.linkedin.com/in/vivien-bernardot-64756434a.
@@ -7,7 +8,7 @@
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=voicedhealer&layout=compact&theme=tokyonight)
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+
 
 ![Trophées](https://github-profile-trophy.vercel.app/?username=voicedhealer&theme=onedark)
 
