@@ -1,6 +1,6 @@
 ## 👋 Bonjour, je suis Vivien Bernardot !
 
-- 🌱 Je suis passionné par l'informatique de manière générale.
+- 🌱 "Je suis passionné par l'informatique dans son ensemble et par les nombreuses possibilités qu'elle offre."
 
 - 🔭 Actuellement, je suis en formation pour devenir Développeur Web et Mobile.
 Cette formation me permet d'acquérir les compétences nécessaires pour concevoir et développer des applications web et mobiles, en maîtrisant les technologies front-end et back-end.
