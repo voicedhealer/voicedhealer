@@ -7,6 +7,6 @@
 
 ![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=voicedhealer&show_icons=true&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=voicedhealer&layout=large&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=voicedhealer&layout=compact&theme=tokyonight)
 
 ![Trophées](https://github-profile-trophy.vercel.app/?username=voicedhealer&theme=onedark)
